@@ -1,0 +1,23 @@
+body {
+	background: blue;
+}
+
+#button {
+	size: 55px;
+	margin-top: 75px;
+	margin-left: 15px;
+	color: red;
+	font-size: 40px;
+
+}
+
+#submit-box {
+	float: right;
+	margin-top: 90px;
+	margin-right: 300px;
+}
+
+#gifsGoHere {
+	float: left;
+	margin-left: 200px;
+}
